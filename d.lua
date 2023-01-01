@@ -1,1 +1,1 @@
-wedwew
+print("hello")
